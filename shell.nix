@@ -6,6 +6,6 @@ mkShell {
   shellHook = ''
     clear
     echo "Entered into  nix-shell"
-    echo "With node v20.18.1 & npm 10.8.2"
+    echo "With node v20.18.1 & npm v10.8.2"
   '';
 }
